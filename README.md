@@ -1,24 +1,17 @@
 # vue-tutorial
 
 ## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+```bash
+# setup
+$ yarn install
 
-### Compiles and minifies for production
-```
-yarn build
-```
+# Compiles and hot-reloads for development
+$ yarn serve
 
-### Lints and fixes files
-```
-yarn lint
-```
+# Compiles and minifies for production
+$ yarn build
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+# Lints and fixes files
+$ yarn lint
+```
